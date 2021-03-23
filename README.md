@@ -1,4 +1,4 @@
-#Seira Kisisel Asistan Berkay Dinç-1321012050
+#Seira Kisisel Asistan Berkay Dinç Süleyman Demirel Üniversitesi Bitirme Projesi
 
 >Tkinter Sesli Asistan Seira 
 
